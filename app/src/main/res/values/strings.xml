@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DaggerStarWars</string>
+    <string name="tv_txt_loading">Loading...</string>
+</resources>
